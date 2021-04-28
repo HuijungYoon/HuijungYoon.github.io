@@ -1,10 +1,10 @@
 module.exports = {
   /** Site MetaData (Required all)*/
-  title: `유니중`,                           // (* Required)
-  description: `유니중의 개발블로그입니다.`,          // (* Required)
+  title: `데브러버`,                           // (* Required)
+  description: `데브러버의 개발블로그입니다.`,          // (* Required)
   author: `Author`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://',                      // (* Required)
+  siteUrl: 'https://HuijungYoon.github.io',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
@@ -14,16 +14,16 @@ module.exports = {
     // If the file does not exist, it is replaced by a random image.
 
   /** Home > Bio information*/
-  comment: '유니중의 개발블로그',
-  name: '유니중',
+  comment: '데브러버의 개발블로그',
+  name: '데브러버',
   company: 'ATN',
   location: 'Korea',
   email: 'markup3604@gmail.com',
-  website: 'https://github.com/junhobaik/junhobaik.github.io',           // ex.'https://junhobaik.github.io'
+  website: 'https://github.com/HuijungYoon',           // ex.'https://junhobaik.github.io'
   linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
   facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
   instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
-  github: 'https://github.com/HuijungYoon',                                                            // ex.'https://github.com/junhobaik'
+  github: 'https://github.com/HuijungYoon',                              // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
