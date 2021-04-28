@@ -1,14 +1,23 @@
 ---
-title: Draft, 임시 게시물 예제
-date: 1991-03-24
+title: Defi
+date: 2021-04-12
+tags:
+  - 디파이코인
+  - 비트코인
 ---
 
-## 임시 게시물 포스트
+## Defi란?
 
-해당 게시물은 로컬 개발 환경에서만 표시되며, 배포시에는 표시되지 않습니다.
+Decentralized Finacne
 
-임시 게시물(draft)은 `./_drafts` 폴더에 위치합니다.
+디파이코인은 탈중앙화 금융의 약자입니다.
 
-해당 게시물 파일은 지워도되나, `./_drafts` 폴더는 절대 지우지 마세요.
+사실 전통적인 금융의 방식은 돈을 빌릴떄 은행(제3자)에게 가서 각종 서류와 신분증을 제시한다음에 돈을 빌리는 방식이었습니다.
 
-자세한 가이드는 [Documents](<https://github.com/junhobaik/junhobaik.github.io/wiki/Document-(Borderless)>)를 확인해주세요.
+사실 이러한 방식때문에 중간에서 많은 개입과 간섭 그리고 불이익이 있었습니다. (역시 유통업자들이 돈을많이버는...)
+
+이런 방식을 탈피하고자 나온게 바로 디파이 인데요
+
+디파이 같은 경우에는
+
+near gallery syrup chief ticket occur seek wise ramp cabbage verify wheat
