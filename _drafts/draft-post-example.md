@@ -19,5 +19,3 @@ Decentralized Finacne
 이런 방식을 탈피하고자 나온게 바로 디파이 인데요
 
 디파이 같은 경우에는
-
-near gallery syrup chief ticket occur seek wise ramp cabbage verify wheat
