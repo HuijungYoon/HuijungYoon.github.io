@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://huijungyoon.github.io/sitemap.xml
+Sitemap: https://Huijungyoon.github.io/sitemap.xml
 Host: https://huijungyoon.github.io
