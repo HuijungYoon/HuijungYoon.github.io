@@ -4,7 +4,7 @@ module.exports = {
   description: `데브러버의 개발블로그입니다.`,          // (* Required)
   author: `Author`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://HuijungYoon.github.io',                      // (* Required)
+  siteUrl: 'https://huijungyoon.github.io',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
